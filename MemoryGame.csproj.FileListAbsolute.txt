@@ -1,0 +1,11 @@
+D:\работы в csharp\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+D:\работы в csharp\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+D:\работы в csharp\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+D:\работы в csharp\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.AssemblyReference.cache
+D:\работы в csharp\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.SuggestedBindingRedirects.cache
+D:\работы в csharp\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Form1.resources
+D:\работы в csharp\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+D:\работы в csharp\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+D:\работы в csharp\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+D:\работы в csharp\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+D:\работы в csharp\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
